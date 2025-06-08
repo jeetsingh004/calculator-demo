@@ -1,3 +1,4 @@
 # calculator-demo
-my very first repository
-author: jeet singh
+my very first repository.
+<br>
+author: jeet singh.
